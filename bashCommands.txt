@@ -7,3 +7,6 @@ rm -rf myDir
 
 Changes von aktuellem Branch ohne Master: 
   git log --no-merges master.. 
+
+Unstage file
+  git reset HEAD <file>
