@@ -1,1 +1,9 @@
 rm -rf myDir
+
+
+
+
+#Git
+
+Changes von aktuellem Branch ohne Master: 
+  git log --no-merges master.. 
